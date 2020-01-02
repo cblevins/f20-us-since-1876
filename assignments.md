@@ -26,9 +26,7 @@ Visit the Museum of Fine Arts and explore its Art of the Americas wing, then sel
 
 ### Final Project: Course Packet (20%)
 
-Create a course packet of historical sources on a topic of your choice (ex. fashion, impeachment, birth control, U.S. holidays, Chinese-American immigration, etc.). You will gather **10 sources that trace your topic over the 1900s and/or 2000s** and write a background essay on the topic that links your project to larger themes in U.S. history.
-
-[Full description of the assignment]({{site.baseurl}}/final-project).
+Create a course packet of historical sources on a topic of your choice (ex. fashion, impeachment, birth control, U.S. holidays, Chinese-American immigration, etc.). You will gather **8-10 sources that trace your topic over the 1900s and/or 2000s** and write a background essay on the topic that links your project to larger themes in U.S. history. [Full description of the assignment]({{site.baseurl}}/final-project).
 
 *Due on Wednesday, 4/8 by 11:59PM*
 

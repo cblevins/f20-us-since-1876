@@ -21,20 +21,13 @@ permalink: /schedule/
 - [Research and take notes on your assigned federally-recognized tribe]({{site.baseurl}}/downloads/FederallyRecognizedTribe_Research.pdf)
 
 **W. 1/15: Origin Stories - 1619 vs. 1776**
-- Nikole Hannah-Jones, [Episode 1: The Fight for a True Democracy](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html), *1619 Podcast* (23 August 2019)
+- Nikole Hannah-Jones, [Episode 1: The Fight for a True Democracy](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html), *1619 Podcast* (23 August 2019). ([Transcript of episode if needed](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html?showTranscript=1))
 
 **Th. 1/16: Becoming British, Becoming American**
-- Listen to *one* of the following episodes from Liz Covart, *Ben Franklin's World* podcast: 
+- Listen to *one* of the following two episodes from Liz Covart, *Ben Franklin's World* podcast: 
     - [Zara Anishanslin, How Historians Read Historical Sources](https://www.benfranklinsworld.com/episode-084-zara-anishanslin-historians-read-historical-sources/)
-    - [Wendy Warren, New England Bound: Slavery in Early New England](https://www.benfranklinsworld.com/episode-170-wendy-warren-new-england-bound-slavery-early-new-england/)
     - [Sam White, The Little Ice Age](https://www.benfranklinsworld.com/episode-189-sam-white-the-little-ice-age/)
-
-- https://www.benfranklinsworld.com/episode-069-abby-chandler-law-order-and-sexual-misconduct-in-colonial-new-england/
-- https://www.benfranklinsworld.com/episode-049-malcolm-gaskill-how-the-english-became-american/
-- https://www.benfranklinsworld.com/027/
-- https://www.benfranklinsworld.com/episode-189-sam-white-the-little-ice-age/
-- https://www.benfranklinsworld.com/episode-171-jessica-stern-native-americans-british-colonists-trade-north-america/
-- https://www.benfranklinsworld.com/episode-168-andrea-smalley-wild-nature-colonists-animals-north-america/
+- Note: if you are unable to listen to the podcast, please substitute: T.H. Breen, ["'Baubles of Britain': The American and Consumer Revolutions of the Eighteenth Century"](https://www.dropbox.com/s/3of4ae2w0k90bpe/Breen_BaublesOfBritain.pdf?dl=0)
 
 ### Topic 2: Building a New Nation
 
@@ -42,7 +35,7 @@ permalink: /schedule/
 
 **W. 1/22: The Revolution**
 - *American Yawp*, 	Chapter 5: The American Revolution ([Part III](http://www.americanyawp.com/text/05-the-american-revolution/#III_The_Causes_of_the_American_Revolution), [Part IV](http://www.americanyawp.com/text/05-the-american-revolution/#IV_Independence)).
-- Transcription of [The Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript)
+- Full transcript of [The Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript)
 - [Abigail Adams and John Adams on Women and the American Revolution (1776)](https://www.dropbox.com/s/nkvnu4aw7khvkw9/AbigailAndJohnAdams_1776.pdf?dl=0)
 
 *Citizenship Portfolio Part I (Voter Worksheet) due on Wednesday, 1/22 by 11:59PM*
@@ -51,11 +44,11 @@ permalink: /schedule/
 - *American Yawp*, [Chapter 6: A New Nation](http://www.americanyawp.com/text/06-a-new-nation/) (Parts I, II, III, IV)
 
 **M. 1/27: A New Nation (I)**
-- Listen and read the lyrics to your assigned song from *Hamilton: The Musical*
+- Listen to and read the lyrics to your assigned song from *Hamilton: The Musical*, then do background research on what the song is discussing.
 - [Tecumseh's Speech to Governor William Henry Harrison, 20 August 1810](https://www.dropbox.com/s/jl3cdzx6i0xpl0s/tecumseh_1810.docx?dl=0)
 
 **W. 1/29: A New Nation (II)**
-- *American Yawp*, Chapter 8: The Market Revolution ([Part I, II, V](http://www.americanyawp.com/text/08-the-market-revolution/))
+- *American Yawp*, Chapter 8: The Market Revolution ([Part I, II, V(http://www.americanyawp.com/text/08-the-market-revolution/))
 - [Harriet H. Robinson describes a Mill Workers Strike](http://www.americanyawp.com/reader/the-market-revolution/harriet-h-robinson-describes-a-mill-workers-strike-1863/)
 
 ### Topic 3: Slavery and Freedom
@@ -67,7 +60,7 @@ permalink: /schedule/
 *Citizenship Portfolio Part II (Presidential Nominations) due Sunday 2/2 by 11:59PM*
 
 **M. 2/3: Slave Society**
-- Watch either *12 Years a Slave* (2013) or *Twelve Years a Slave: Solomon Northup's Odyssey* (1984) (see class email for more details on the two films)
+- Watch EITHER film: *12 Years a Slave* (2013) or *Twelve Years a Slave: Solomon Northup's Odyssey* (1984) (see class email for more details on the two films)
 
 **W. 2/5: Abolitionism and Reform**
 - Frederick Douglass, [“What to the Slave is the Fourth of July?” (1852) (selections)](https://www.dropbox.com/s/dv5tiauwxif9o32/Douglass_WhatToTheSlaveIsTheFourthOfJuly_Excerpts.pdf?dl=0)
@@ -81,12 +74,12 @@ permalink: /schedule/
 - [The Lincoln-Douglas Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
 - [Mississippi Ordinance of Secession (1861) (selections)](https://www.dropbox.com/s/lgmv9f4uxnp4vcl/MississippiOrdinanceOfSecession_1861.pdf?dl=0)
 
-**M. 2/10: War I**
+**M. 2/10: War (I)**
 - *American Yawp*, [Chapter 14: The Civil War](http://www.americanyawp.com/text/14-the-civil-war) (Part III, IV)
 - James McPherson, [“Who Freed the Slaves?”]({{site.baseurl}}/downloads/McPherson_WhoFreedTheSlaves.pdf) *Proceedings of the American Philosophical Society* Vol. 139, No. 1 (Mar., 1995), pp. 1-10.
 - Ira Berlin, ["Who Freed the Slaves? Emancipation and its Meaning in American Life"]({{site.baseurl}}/downloads/Berlin_WhoFreedTheSlaves.pdf) in Blight and Simpson, eds., *Union & Emancipation* (1997), pp. 105-121.
 
-**W. 2/12: War II**
+**W. 2/12: War (II)**
 - Listen to [Episode 5: The Spin](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
 - Listen to one additional episode from *Uncivil* podcast:
     - Jack Hitt and Chenjerai Kumanyika, ["The Raid"](http://www.gimletmedia.com/uncivil/the-raid#episode-player) (October 4, 2017)
@@ -98,7 +91,7 @@ permalink: /schedule/
 
 **Th. 2/13: Reconstruction I**
 - *American Yawp*, [Chapter 15: Reconstruction](http://www.americanyawp.com/text/15-reconstruction/) (Parts I, II)
-- Letter from Jourdan Anderson to P. H. Anderson, 1865 
+- Letter from Jourdan Anderson to P. H. Anderson, 1865
 
 ~~**M. 2/17:  No Class - Official Holiday**~~
 
@@ -106,7 +99,7 @@ permalink: /schedule/
 - Ta-Nehisi Coates, ["The Case for Reparations"](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/) *The Atlantic* (2014).
 
 **Th. 2/20: Redemption & Reunion**
-- Watch documentary "Birth of a Movement" (2017) by Susan Gray and Bestor Cram (54 min.) - available on Amazon, iTunes, and on course reserve at Snell Library.
+- Watch documentary "Birth of a Movement" (2017) by Susan Gray and Bestor Cram (55 min.) - available through [Kanopy using your Northeastern login credentials](https://northeastern-kanopy-com.ezproxy.neu.edu/video/independent-lens), or on Amazon & iTunes.
 
 ### Topic 6: Making an Industrial Nation
 
@@ -174,7 +167,6 @@ permalink: /schedule/
 
 **Th. 3/26: The Civil Rights Era II**
 - Watch first 34:30 of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
-
 
 **M. 3/30: The New Right**
 - Listen to "Episode 1: The Battle" PLUS one additional assigned podcast episode from: Leah Sottile, [*Bundyville*, Season One](https://longreads.com/bundyville/season-one/).
