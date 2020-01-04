@@ -18,7 +18,7 @@ permalink: /schedule/
 
 **M. 1/13: Facing East**
 - Andrés Reséndez, *The Other Slavery: The Uncovered Story of Indian Enslavement in America*, [Introduction and Chapter 7](https://www.dropbox.com/s/yk2xalxr1ry0tty/Resendez_TheOtherSlavery_Intro_Ch7.pdf?dl=0)
-- [Research and take notes on your assigned federally-recognized tribe]({{site.baseurl}}/downloads/FederallyRecognizedTribe_Research.pdf)
+- [Research and take notes on your assigned federally-recognized tribe]({{site.baseurl}}/downloads/FederallyRecognizedTribe_Research.docx)
 
 **W. 1/15: Origin Stories - 1619 vs. 1776**
 - Nikole Hannah-Jones, [Episode 1: The Fight for a True Democracy](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html), *1619 Podcast* (23 August 2019). ([Transcript of episode if needed](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html?showTranscript=1))
