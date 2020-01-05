@@ -6,10 +6,11 @@ title:
 <div style="text-align: center">
 <p>
 HIST 1130: Introduction to the History of the United States<br>
-Professor Cameron Blevins (c.blevins@northeastern.edu)<br>
+Professor Cameron Blevins (he/him/his) | c.blevins@northeastern.edu<br>
 M/W/Th. 10:30-11:35am, Science Engineering Complex 142<br>
 Office Hours: Meserve Hall 237, Mon. 11:45-12:45 & by appointment<br>
-Teaching Assistant: Claire Tratnyek (tratnyek.c@husky.neu.edu)
+Teaching Assistant: Claire Tratnyek (she/her/her) | tratnyek.c@husky.neu.edu<br>
+TA Office Hours: Meserve Hall 218B, M/W. 3:00-4:00pm
 </p>
 </div>
 

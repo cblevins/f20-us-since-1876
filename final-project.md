@@ -24,6 +24,3 @@ Submit a single Word document formatted as `YourLastName_FinalProject.docx` (ie.
 - Each source should include identifying information for the source (ex. author, title, date created, etc.) and 2-3 sentence explanations of each source. 
 
 *Due on Wednesday, 4/8 by 11:59PM*
-
-
-
