@@ -10,7 +10,7 @@ Professor Cameron Blevins (he/him/his) | c.blevins@northeastern.edu<br>
 M/W/Th. 10:30-11:35am, Science Engineering Complex 142<br>
 Office Hours: Meserve Hall 237, M/W 12:00-1:00pm & by appointment<br>
 Teaching Assistant: Claire Tratnyek (she/her/her) | tratnyek.c@husky.neu.edu<br>
-TA Office Hours: Meserve Hall 218B, M/W. 3:00-4:00pm
+TA Office Hours: Meserve Hall 218B, W/Th. 3:00-4:00pm
 </p>
 </div>
 
