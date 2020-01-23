@@ -44,7 +44,12 @@ permalink: /schedule/
 - *American Yawp*, [Chapter 6: A New Nation](http://www.americanyawp.com/text/06-a-new-nation/) (Parts I, II, III, IV)
 
 **M. 1/27: A New Nation (I)**
-- Listen to and read the lyrics to your assigned song from *Hamilton: The Musical*, then do background research on what the song is discussing.
+- Listen to the following **four songs** from *Hamilton: The Musical* (you can find lyrics to follow along as you listen). Each of you will then be assigned **one of these songs** to study in more depth. Research and take notes the historical topics, events, or context of your song and bring those notes to class; you will be responsible for "teaching" that song to your peers.
+    - [Cabinet Battle #1](https://www.youtube.com/watch?v=dSYW61XQZeo)
+    - [The Room Where it Happens](https://www.youtube.com/watch?v=WySzEXKUSZw)
+    - [Cabinet Battle #2](https://www.youtube.com/watch?v=_jWVKYjy7E8)
+    - [The Election of 1800](https://www.youtube.com/watch?v=7LdNrZX_2n8)
+- Kate Keller, ["The Issue on the Table: Is “Hamilton” Good For History?"](https://www.smithsonianmag.com/history/issue-table-hamilton-good-history-180969192/) *Smithsonian Magazine* (2018).
 - [Tecumseh's Speech to Governor William Henry Harrison, 20 August 1810](https://www.dropbox.com/s/jl3cdzx6i0xpl0s/tecumseh_1810.docx?dl=0)
 
 **W. 1/29: A New Nation (II)**
