@@ -60,7 +60,7 @@ permalink: /schedule/
 
 **Th. 1/30: King Cotton**
 - *American Yawp*, Chapter 11: The Cotton Revolution ([Part I, II](http://www.americanyawp.com/text/11-the-cotton-revolution))
-- Harriet Jacobs, *Incidents in the Life of a Slave Girl* (excerpts)
+- [Harriet Jacobs, *Incidents in the Life of a Slave Girl* (excerpts)](https://history.hanover.edu/courses/excerpts/143jacobs-harriet.html)
 
 *Citizenship Portfolio Part II (Presidential Nominations) due Sunday 2/2 by 11:59PM*
 
