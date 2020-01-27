@@ -53,13 +53,13 @@ permalink: /schedule/
 - [Tecumseh's Speech to Governor William Henry Harrison, 20 August 1810](https://www.dropbox.com/s/jl3cdzx6i0xpl0s/tecumseh_1810.docx?dl=0)
 
 **W. 1/29: A New Nation (II)**
-- *American Yawp*, Chapter 8: The Market Revolution ([Part I, II, V](http://www.americanyawp.com/text/08-the-market-revolution/))
+- *American Yawp*, Chapter 8: The Market Revolution ([Part I, II](http://www.americanyawp.com/text/08-the-market-revolution/))
 - [Harriet H. Robinson describes a Mill Workers Strike](http://www.americanyawp.com/reader/the-market-revolution/harriet-h-robinson-describes-a-mill-workers-strike-1863/)
 
 ### Topic 3: Slavery and Freedom
 
 **Th. 1/30: King Cotton**
-- *American Yawp*, Chapter 11: The Cotton Revolution ([Part I, II, III, V](http://www.americanyawp.com/text/11-the-cotton-revolution))
+- *American Yawp*, Chapter 11: The Cotton Revolution ([Part I, II](http://www.americanyawp.com/text/11-the-cotton-revolution))
 - Harriet Jacobs, *Incidents in the Life of a Slave Girl* (excerpts)
 
 *Citizenship Portfolio Part II (Presidential Nominations) due Sunday 2/2 by 11:59PM*
