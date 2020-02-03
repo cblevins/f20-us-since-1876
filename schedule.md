@@ -76,9 +76,9 @@ permalink: /schedule/
 ### Topic 4: The Civil War
 
 **Th. 2/6: Crisis**
-- *American Yawp*, [Chapter 13: Sectional Crisis](http://www.americanyawp.com/text/13-the-sectional-crisis) (Part III, IV, V)
+- "Franklin Pierce" *Presidents Are People Too* podcast (May 16, 2017). [Audible](http://audiblepapt.audible.libsynpro.com/franklin-pierce), [iTunes](https://podcasts.apple.com/us/podcast/franklin-pierce/id1168237590?i=1000385476840). (You can skip section 20:30 to 27:00). 
+    - Note: if you cannot listen to the podcast, [read the transcript](https://www.washingtonpost.com/graphics/business/podcasts/presidential/pdfs/franklin-pierce-transcript.pdf) of a second podcast on Franklin Pierce: Lillian Cunningham, "Franklin Pierce: Rolling Off the Tracks" *Presidential* podcast. 
 - [The Lincoln-Douglas Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
-- [Mississippi Ordinance of Secession (1861) (selections)](https://www.dropbox.com/s/lgmv9f4uxnp4vcl/MississippiOrdinanceOfSecession_1861.pdf?dl=0)
 
 **M. 2/10: War (I)**
 - *American Yawp*, [Chapter 14: The Civil War](http://www.americanyawp.com/text/14-the-civil-war) (Part III, IV)
@@ -86,11 +86,11 @@ permalink: /schedule/
 - Ira Berlin, ["Who Freed the Slaves? Emancipation and its Meaning in American Life"]({{site.baseurl}}/downloads/Berlin_WhoFreedTheSlaves.pdf) in Blight and Simpson, eds., *Union & Emancipation* (1997), pp. 105-121.
 
 **W. 2/12: War (II)**
-- Listen to [Episode 5: The Spin](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
+- Listen to Jack Hitt and Chenjerai Kumanyika, ["Episode 5: The Spin"](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
 - Listen to one additional episode from *Uncivil* podcast:
-    - Jack Hitt and Chenjerai Kumanyika, ["The Raid"](http://www.gimletmedia.com/uncivil/the-raid#episode-player) (October 4, 2017)
-    - Jack Hitt and Chenjerai Kumanyika, ["The Ring"](https://www.gimletmedia.com/uncivil/the-ring) (November 9, 2017)
-    - Jack Hitt and Chenjerai Kumanyika, ["The Portrait"](https://www.gimletmedia.com/uncivil/the-portrait) (December 27, 2017) 
+    - ["The Raid"](http://www.gimletmedia.com/uncivil/the-raid#episode-player) (October 4, 2017)
+    - ["The Ring"](https://www.gimletmedia.com/uncivil/the-ring) (November 9, 2017)
+    - ["The Portrait"](https://www.gimletmedia.com/uncivil/the-portrait) (December 27, 2017) 
 - Primary/Caucus update: New Hampshire
 
 ### Topic 5: Reconstruction
