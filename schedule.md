@@ -76,7 +76,7 @@ permalink: /schedule/
 ### Topic 4: The Civil War
 
 **Th. 2/6: Crisis**
-- "Franklin Pierce" *Presidents Are People Too* podcast (May 16, 2017). [Audible](http://audiblepapt.audible.libsynpro.com/franklin-pierce), [iTunes](https://podcasts.apple.com/us/podcast/franklin-pierce/id1168237590?i=1000385476840). (You can skip section 20:30 to 27:00). 
+- Alexis Coe and Elliott Kalan, "Franklin Pierce" *Presidents Are People Too* podcast (May 16, 2017). [Audible](http://audiblepapt.audible.libsynpro.com/franklin-pierce), [iTunes](https://podcasts.apple.com/us/podcast/franklin-pierce/id1168237590?i=1000385476840). (You can skip section 20:30 to 27:00). 
     - Note: if you cannot listen to the podcast, [read the transcript](https://www.washingtonpost.com/graphics/business/podcasts/presidential/pdfs/franklin-pierce-transcript.pdf) of a second podcast on Franklin Pierce: Lillian Cunningham, "Franklin Pierce: Rolling Off the Tracks" *Presidential* podcast. 
 - [The Lincoln-Douglas Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
 
