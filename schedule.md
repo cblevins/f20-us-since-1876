@@ -82,8 +82,8 @@ permalink: /schedule/
 
 **M. 2/10: War (I)**
 - *American Yawp*, [Chapter 14: The Civil War](http://www.americanyawp.com/text/14-the-civil-war) (Part III, IV)
-- James McPherson, [“Who Freed the Slaves?”]({{site.baseurl}}/downloads/McPherson_WhoFreedTheSlaves.pdf) *Proceedings of the American Philosophical Society* Vol. 139, No. 1 (Mar., 1995), pp. 1-10.
-- Ira Berlin, ["Who Freed the Slaves? Emancipation and its Meaning in American Life"]({{site.baseurl}}/downloads/Berlin_WhoFreedTheSlaves.pdf) in Blight and Simpson, eds., *Union & Emancipation* (1997), pp. 105-121.
+- James McPherson, [“Who Freed the Slaves?”](https://cblevins.github.io/sp19-cw-rec/downloads/McPherson_WhoFreedTheSlaves.pdf) *Proceedings of the American Philosophical Society* Vol. 139, No. 1 (Mar., 1995), pp. 1-10.
+- Ira Berlin, ["Who Freed the Slaves? Emancipation and its Meaning in American Life"](https://cblevins.github.io/sp19-cw-rec/downloads/Berlin_WhoFreedTheSlaves.pdf) in Blight and Simpson, eds., *Union & Emancipation* (1997), pp. 105-121.
 
 **W. 2/12: War (II)**
 - Listen to Jack Hitt and Chenjerai Kumanyika, ["Episode 5: The Spin"](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
