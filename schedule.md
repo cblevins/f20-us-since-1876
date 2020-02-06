@@ -81,7 +81,7 @@ permalink: /schedule/
 - [The Lincoln-Douglas Debates (1858) (selections)](https://www.dropbox.com/s/mlx9h2lw2o96uef/LincolnDouglassDebates_1858.pdf?dl=0)
 
 **M. 2/10: War (I)**
-- *American Yawp*, [Chapter 14: The Civil War](http://www.americanyawp.com/text/14-the-civil-war) (Part III, IV)
+- *American Yawp*, [Chapter 14: The Civil War](http://www.americanyawp.com/text/14-the-civil-war) (Part III)
 - James McPherson, [“Who Freed the Slaves?”](https://cblevins.github.io/sp19-cw-rec/downloads/McPherson_WhoFreedTheSlaves.pdf) *Proceedings of the American Philosophical Society* Vol. 139, No. 1 (Mar., 1995), pp. 1-10.
 - Ira Berlin, ["Who Freed the Slaves? Emancipation and its Meaning in American Life"](https://cblevins.github.io/sp19-cw-rec/downloads/Berlin_WhoFreedTheSlaves.pdf) in Blight and Simpson, eds., *Union & Emancipation* (1997), pp. 105-121.
 
