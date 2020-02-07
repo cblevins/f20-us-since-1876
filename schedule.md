@@ -87,17 +87,14 @@ permalink: /schedule/
 
 **W. 2/12: War (II)**
 - Listen to Jack Hitt and Chenjerai Kumanyika, ["Episode 5: The Spin"](http://www.gimletmedia.com/uncivil/the-spin#episode-player) (November 8, 2017) from *Uncivil* podcast.
-- Listen to one additional episode from *Uncivil* podcast:
-    - ["The Raid"](http://www.gimletmedia.com/uncivil/the-raid#episode-player) (October 4, 2017)
-    - ["The Ring"](https://www.gimletmedia.com/uncivil/the-ring) (November 9, 2017)
-    - ["The Portrait"](https://www.gimletmedia.com/uncivil/the-portrait) (December 27, 2017) 
+- Mid-Semester Project Workshop: Browse through the available sources [in your group's chosen topic of primary sources](https://dp.la/browse-by-topic/american-civil-war). Select *one* of the individual sources that interests you and then fill out the cover page of [your mid-semester project template]({{site.baseurl}}/downloads/MFA_Project.docx) as if you were using this source for your project. Print out **two hard copies of the completed cover page** and bring it to class with you.
 - Primary/Caucus update: New Hampshire
 
 ### Topic 5: Reconstruction
 
 **Th. 2/13: Reconstruction I**
-- *American Yawp*, [Chapter 15: Reconstruction](http://www.americanyawp.com/text/15-reconstruction/) (Parts I, II)
-- Letter from Jourdan Anderson to P. H. Anderson, 1865
+- *American Yawp*, [Chapter 15: Reconstruction](http://www.americanyawp.com/text/15-reconstruction/) (Parts I, II, V)
+- [Letter from Jourdan Anderson to P. H. Anderson, 1865](https://www.dropbox.com/s/hpgbpioy7a3zt1f/JourdanAnderson_1865.docx?dl=0)
 
 ~~**M. 2/17:  No Class - Official Holiday**~~
 
