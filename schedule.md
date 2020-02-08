@@ -110,6 +110,7 @@ permalink: /schedule/
 - *American Yawp*, [Chapter 16: Capital and Labor](http://www.americanyawp.com/text/16-capital-and-labor) (Part I, II, III)
 - Horatio Alger Jr., [*Ragged Dick* (1867) (Chapter XI)](https://www.dropbox.com/s/bg1j5vr713u6rci/Alger_RaggedDick_Excerpts.pdf?dl=0)
 - Elizabeth Kolbert, ["Gospels of Giving for the New Gilded Age"](https://www.newyorker.com/magazine/2018/08/27/gospels-of-giving-for-the-new-gilded-age) *The New Yorker* 27 August 2018. [[PDF version](https://www.dropbox.com/s/r3mqdvzcgj456wq/Kolbert_Gospels%20of%20Giving%20for%20the%20New%20Gilded%20Age%20%7C%20The%20New%20Yorker.pdf?dl=0)]
+- Primary/Caucus update: Nevada
 
 **W. 2/26: Labor**
 - TBD
