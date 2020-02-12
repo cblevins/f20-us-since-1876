@@ -6,7 +6,9 @@ permalink: /mfa-project/
 
 ### Mid-Semester Project: Museum of Fine Arts
 
-Visit the Museum of Fine Arts and explore its Art of the Americas wing, then select one item from their collection of art that you can connect to the core question of this course: "What does it mean to be an American?" You will write an essay analyzing the piece of art within the larger context of American identity and American history. [Use this document as a template]({{site.baseurl}}/downloads/MFA_Project.docx), change the filename to `Lastname_MFA_Project.docx` (ex. `Blevins_MFA_Project.docx`), and upload it to [this Dropbox folder](https://www.dropbox.com/request/ujVENh5ZJHNtq7ikxZW5).
+Visit the Museum of Fine Arts and explore its Art of the Americas wing, then select one item from their collection of art that you can connect to the core question of this course: "What does it mean to be an American?" You will write an essay analyzing the piece of art within the larger context of American identity and American history. [Use this document as a template]({{site.baseurl}}/downloads/MFA_Project.docx), change the filename to `Lastname_MFA_Project.docx` (ex. `Blevins_MFA_Project.docx`), and upload it to [this Dropbox folder](https://www.dropbox.com/request/ujVENh5ZJHNtq7ikxZW5). (See below for advice on visiting the MFA.)
+
+*Due on Wednesday, 2/26 by 11:59PM*
 
 **Cover Page**
 
@@ -27,4 +29,14 @@ In 1,000-1,200 words, analyze the work of art you've selected and its relationsh
 
 Each time you refer to a reading, lecture, or other source in your essay, insert a footnote at the end of that paragraph that documents the source(s) you used. There is no minimum number of sources you need to reference and you can use whatever official citation style you are most comfortable with. If you have not used footnotes before, follow the Chicago Manual of Style's guidelines for notes: <https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html>. You will not be penalized for formatting mistakes provided that you are giving as much information as possible: author, title, publication/website, date, page number, URL, etc. The idea is that the reader needs to be able to understand where the information is coming from and, when possible, go back and consult that source itself. Do not include your footnotes in the essay's total word count.
 
-*Due on Wednesday, 2/26 by 11:59PM*
+**Visiting the MFA**
+
+Some advice for visiting the MFA for this project:
+
+- You can get into the MFA for free as a Northeastern student - just remember to bring your student ID!
+- Bring a notebook to write down ideas and make notes.
+- The Art of the Americas wing is quite large, and encompasses four floors of exhibits. I would recommend taking a "lap" through all of the floors first, without stopping, to get a sense for what kinds of art is in each of the sections. As you do so, you can jot down any particular paintings or sections that catch your eye. Then go back to sections that interest you and start to narrow in on specific pieces of art. 
+- Write down any ideas you have for specific pieces and how you might use them in an essay.
+- Use your phone to take photographs (no flash) of individual paintings along with their placards of information. You can refer back to these later.
+- Once you have selected a piece of art, you can always return to the MFA for a second visit if you need some more information about the how it fits within the MFA's Art of the America's wing.
+
