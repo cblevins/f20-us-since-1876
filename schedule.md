@@ -108,7 +108,7 @@ permalink: /schedule/
 
 **M. 2/24:  Capital**
 - *American Yawp*, [Chapter 16: Capital and Labor](http://www.americanyawp.com/text/16-capital-and-labor) (Part II, III)
-- Source packet on Capital and Labor 
+- [Source packet on Capital and Labor](https://www.dropbox.com/s/dso82ya30sbuvjj/primary-source-packet-capital-labor.docx?dl=0)
 - Primary/Caucus update: Nevada
 
 **W. 2/26: Labor**
