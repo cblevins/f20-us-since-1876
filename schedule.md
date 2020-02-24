@@ -130,13 +130,13 @@ permalink: /schedule/
 
 **M. 3/9: Jim Crow**
 - Isabel Wilkerson, *The Warmth of Other Suns* (selections)
-- Primary/Caucus update: South Carolina
+- Primary/Caucus update: South Carolina & March 3rd Super Tuesday states
 
 **W. 3/11: Suffrage**
 - *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))
 - Ida B. Wells-Barnett, ["Lynch Law in America"](http://etc.usf.edu/lit2go/pdf/passage/4375/civil-rights-and-conflict-in-the-united-states-selected-speeches-003-speech-on-lynch-law-in-america-given-by-ida-b-wells-in-chicago-illinois-january-1900.pdf) (1900) 
 - [Margaret Sanger on "Free Motherhood" (1920)](https://www.dropbox.com/s/vebb8i97ttepedc/Sanger_FreeMotherhood.pdf?dl=0)
-- Primary/Caucus update: Super Tuesday states
+- Primary/Caucus update: March 10th states
 
 **Th. 3/12: Immigration**
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016.
