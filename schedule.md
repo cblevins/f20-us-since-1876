@@ -112,7 +112,7 @@ permalink: /schedule/
 - Primary/Caucus update: Nevada
 
 **W. 2/26: Labor**
-- Source packet on Capital and Labor
+- [Newspaper Packet on 1892 Homestead Strike](https://www.dropbox.com/s/i932jj6bc9ztlk7/homestead-newspapers.pdf?dl=0)
 
 *MFA Projects due by Wednesday, 2/26 at 11:59PM*
 
