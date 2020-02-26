@@ -128,7 +128,7 @@ permalink: /schedule/
 ### Topic 7: The Melting Pot
 
 **M. 3/9: Jim Crow**
-- Isabel Wilkerson, *The Warmth of Other Suns* (selections)
+- Isabel Wilkerson, [*The Warmth of Other Suns* (selections)](https://www.dropbox.com/s/7mxhmh5zjxyhemf/Wilkerson_TheWarmthOfOtherSuns_selections.pdf?dl=0)
 - Use PollEverywhere to submit a "reading" (song, video, article, Reddit thread, etc.) that you would assign a future student taking a future version of HIST 1130: Introduction to U.S. History that you think would help them understand college students in 2020. Include a short explanation of what you hope they would learn from it.
 - Primary/Caucus update: South Carolina & March 3rd Super Tuesday states
 
