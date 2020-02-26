@@ -118,7 +118,6 @@ permalink: /schedule/
 
 **Th. 2/27: Mid-Semester Review**
 - Be ready to give a short "elevator speech" (90 seconds) about your MFA project 
-- Use PollEverywhere to submit a "reading" (song, video, article, Reddit thread, etc.) that you would assign a future student taking a future version of HIST 1130: Introduction to U.S. History that you think would help them understand college students in 2020. Include a short explanation of what you hope they would learn from it.
 
 ~~M. 3/2: No Class, Spring Break~~
 
@@ -130,6 +129,7 @@ permalink: /schedule/
 
 **M. 3/9: Jim Crow**
 - Isabel Wilkerson, *The Warmth of Other Suns* (selections)
+- Use PollEverywhere to submit a "reading" (song, video, article, Reddit thread, etc.) that you would assign a future student taking a future version of HIST 1130: Introduction to U.S. History that you think would help them understand college students in 2020. Include a short explanation of what you hope they would learn from it.
 - Primary/Caucus update: South Carolina & March 3rd Super Tuesday states
 
 **W. 3/11: Suffrage**
