@@ -134,7 +134,6 @@ permalink: /schedule/
 
 **W. 3/11: Suffrage**
 - *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))
-- Ida B. Wells-Barnett, ["Lynch Law in America"](http://etc.usf.edu/lit2go/pdf/passage/4375/civil-rights-and-conflict-in-the-united-states-selected-speeches-003-speech-on-lynch-law-in-america-given-by-ida-b-wells-in-chicago-illinois-january-1900.pdf) (1900) 
 - [Margaret Sanger on "Free Motherhood" (1920)](https://www.dropbox.com/s/vebb8i97ttepedc/Sanger_FreeMotherhood.pdf?dl=0)
 - Primary/Caucus update: March 10th states
 
@@ -153,12 +152,12 @@ permalink: /schedule/
 - Watch first 19:00 minutes of Frank Capra, ["War Comes to America"](https://northeastern.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=6505B0C4CE9C004747604E650CE651A0.app03.na03.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8793472070001401&institutionId=1401&customerId=1390) (1945), part of *Why We Fight* film series. 
 - Primary/Caucus update: Idaho, Michigan, Mississippi, Missouri, North Dakota, Washington
 
-*Citizenship Portfolio Part III (Immigration Detainee Hearing) due Wednesday, 3/18 by 11:59PM*
-
 **Th. 3/19: The Cold War**
 - Watch: John Green, ["USA vs USSR Fight! The Cold War"](https://www.youtube.com/watch?v=y9HjvHZfCUI) *Crash Course World History #39*, October 18, 2012. Length: 12:15.
 
 ### Topic 9: Politics and Protest
+
+*Citizenship Portfolio Part III (Immigration Detainee Hearing) due Sunday, 3/22 by 11:59PM*
 
 **M. 3/23: The New Deal**
 - TBD
