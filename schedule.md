@@ -133,7 +133,8 @@ permalink: /schedule/
 - Primary/Caucus update: South Carolina & March 3rd Super Tuesday states
 
 **W. 3/11: Suffrage**
-- *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements), [VI](http://www.americanyawp.com/text/20-the-progressive-era/#VI_Jim_Crow_and_African_American_Life))
+- *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/), ([Part III](http://www.americanyawp.com/text/20-the-progressive-era/#III_Womens_Movements))
+- Listen to segments "Suffering for Suffrage" and "Meme Busters" (26:40-42:00) from episode ["You've Come a Long Way? A History of Women in Politics"](https://www.backstoryradio.org/shows/youve-come-a-long-way/) *Backstory Radio* (29 July 2016). [[Full transcript of episode](https://www.backstoryradio.org/wp-content/uploads/sites/13/2018/08/You_ve_Come_A_Long_Way___A_History_Of_Women_In_Politics.pdf)]
 - [Margaret Sanger on "Free Motherhood" (1920)](https://www.dropbox.com/s/vebb8i97ttepedc/Sanger_FreeMotherhood.pdf?dl=0)
 - Primary/Caucus update: March 10th states
 
