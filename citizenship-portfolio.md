@@ -18,7 +18,7 @@ During the course of the spring semester the Democratic Party will be selecting 
 
 ### Part III. Immigration Detainee Hearing (10%)
 
-***Update (3/11): In light of efforts to contain COVID-19 and Northeastern's move to online learning, you have two alternatives to complete this assignment. Please refer to [this page for details]({{site.baseurl}}/citizenship-portfolio-alternatives).***
+***Update (3/12): In light of efforts to contain COVID-19 and Northeastern's move to online learning, you have two alternatives to complete this assignment. Please refer to [this page for details]({{site.baseurl}}/citizenship-portfolio-alternatives).***
 
 As we will see in this course, citizenship often gets defined by who isn’t a citizen. Immigration and its restrictions have long been a flash-point for defining American identity. This continues to be the case today in the Trump era. To get a real-world glimpse into this issue, you will be attending immigration detainee hearings at the federal Boston Immigration Court. These hearings are open to the public but can be logistically challenging to attend (see below for instructions). We will also be discussing details and procedures on how to attend a hearing in class. Bring a notepad and take notes while you are observe the courtroom **for at least one hour**. After attending a hearing, you will then write a short essay (800-1,000 words) about your experience and how it relates to the larger history of immigration in the United States.
 
