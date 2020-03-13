@@ -138,47 +138,60 @@ permalink: /schedule/
 - [Margaret Sanger on "Free Motherhood" (1920)](https://www.dropbox.com/s/vebb8i97ttepedc/Sanger_FreeMotherhood.pdf?dl=0)
 - Primary/Caucus update: March 10th states
 
-~~Th. 3/12 *Class cancelled due to COVID-19 and move to online learning*~~
-
-***The rest of the semester has been moved online due to COVID-19. The remaining schedule has been changed to two sub-topics per week, Monday and Thursday.***<br>
-
-**Week 10: M. 3/16: Immigration** 
+**Th. 3/12: Immigration**
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016. [PDF version](https://www.dropbox.com/s/hf70871ha47drxd/Schulz_CitizenKhan.pdf?dl=0)
 
 ### Topic 8: War and Empire
 
-**Week 10: Th. 3/19: Colonialism & World War I**
-- *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part I, III), [Chapter 21: World War I](http://www.americanyawp.com/text/21-world-war-i/) (Part I, II, III)
+**M. 3/16: Colonialism & World War I**
+- *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part III: 1898)
+- Primary Source Packet on Spanish-American and Philippine-American Wars
 
-*Citizenship Portfolio Part III due Sunday, 3/22 by 11:59PM*
-
-**Week 11: M. 3/23: World War II**
+**W. 3/18: World War II**
 - *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, IV, V)
-- Watch first 19:00 minutes of Frank Capra, ["War Comes to America"](https://northeastern.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=6505B0C4CE9C004747604E650CE651A0.app03.na03.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8793472070001401&institutionId=1401&customerId=1390) (1945), part of *Why We Fight* film series.
+- Watch first 19:00 minutes of Frank Capra, ["War Comes to America"](https://northeastern.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=6505B0C4CE9C004747604E650CE651A0.app03.na03.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8793472070001401&institutionId=1401&customerId=1390) (1945), part of *Why We Fight* film series. 
+- Primary/Caucus update: Idaho, Michigan, Mississippi, Missouri, North Dakota, Washington
 
-**Week 11: Th. 3/26: The Cold War**
+**Th. 3/19: The Cold War**
 - Watch: John Green, ["USA vs USSR Fight! The Cold War"](https://www.youtube.com/watch?v=y9HjvHZfCUI) *Crash Course World History #39*, October 18, 2012. Length: 12:15.
 
 ### Topic 9: Politics and Protest
 
-**Week 12: M. 3/30: The New Deal**
+*Citizenship Portfolio Part III (Immigration Detainee Hearing) due Sunday, 3/22 by 11:59PM*
+
+**M. 3/23: The New Deal**
 - TBD
 	
-**Week 12: Th. 4/2: The Civil Rights Era I**
+**W. 3/25: The Civil Rights Era I**
 - *American Yawp*, [Chapter 27: The Sixties](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, III, IV)
 - Martin Luther King Jr speaks at the Holt Street Church in Montgomery, Alabama (December 5 1955) [Transcript of King speaking from pp. 71-74](http://okra.stanford.edu/transcription/document_images/Vol03Scans/71_5-Dec-1955_MIA%20Mass%20Meeting.pdf)
 - Malcolm X speech, ["The Ballot or the Bullet”](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2015/11/Malcolm-X-The-Ballot-or-the-Bullet.pdf) (1964). You can also listen to the audio of [his speech on YouTube](https://youtu.be/7oVW3HfzXkg).
 
-**Week 13: M. 4/6: The Civil Rights Era II**
-- Watch Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
+**Th. 3/26: The Civil Rights Era II**
+- Watch first 34:30 of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
 
-*Final Projects due Wednesday, 4/8 by 11:59PM*
-
-**Week 13: Th. 4/9: The New Right**
+**M. 3/30: The New Right**
 - Listen to "Episode 1: The Battle" PLUS one additional assigned podcast episode from: Leah Sottile, [*Bundyville*, Season One](https://longreads.com/bundyville/season-one/).
+
+### Topic 10: American History and the Present
+
+As the semester moves along, we will be brainstorming a list of modern-day events, topics, or themes that you would like to learn more about. I will then plan the last several class sessions to help us understand the history behind them. 
+
+**W. 4/1: TBD**
+
+**Th. 4/2: TBD**
+
+**M. 4/6: TBD**
+
+**W. 4/8: TBD**
 
 ### Wrapping Up
 
-**Week 14: M. 4/13: Wrapping Up**
+*Final Projects due Wednesday, 4/8 by 11:59PM*
+
+**Th. 4/9: Project Presentations**
+- Come to class with a hard copy of your final project and ready to deliver a 90-second elevator pitch of your project
+
+**M. 4/13: Wrapping Up / Final Exam Review**
 
 *Take-Home Final Exam TBD*
