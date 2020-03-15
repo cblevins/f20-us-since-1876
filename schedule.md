@@ -142,27 +142,26 @@ permalink: /schedule/
 
 ***The rest of the semester has been moved online due to COVID-19. The remaining schedule has been changed to two sub-topics per week, Monday and Thursday.***<br>
 
-**Week 10: M. 3/16: Immigration** 
+~~**Week 10: M. 3/16: Immigration**~~ *Class cancelled and rescheduled for Thursday due to students having to move out of residence halls by Tuesday, 3/17* 
+
+**Week 10: Th. 3/19: Immigration**
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016. [PDF version](https://www.dropbox.com/s/hf70871ha47drxd/Schulz_CitizenKhan.pdf?dl=0)
 
 ### Topic 8: War and Empire
 
-**Week 10: Th. 3/19: Colonialism & World War I**
+**Week 11: M. 3/23: Colonialism & World War I**
 - *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part I, III), [Chapter 21: World War I](http://www.americanyawp.com/text/21-world-war-i/) (Part I, II, III)
 
-*Citizenship Portfolio Part III due Sunday, 3/22 by 11:59PM*
+*Citizenship Portfolio Part III due Tuesday, 3/24 by 11:59PM*
 
-**Week 11: M. 3/23: World War II**
+**Week 11: Th. 3/26: World War II**
 - *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, IV, V)
 - Watch first 19:00 minutes of Frank Capra, ["War Comes to America"](https://northeastern.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=6505B0C4CE9C004747604E650CE651A0.app03.na03.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8793472070001401&institutionId=1401&customerId=1390) (1945), part of *Why We Fight* film series.
 
-**Week 11: Th. 3/26: The Cold War**
+**Week 12: M. 3/30: The Cold War**
 - Watch: John Green, ["USA vs USSR Fight! The Cold War"](https://www.youtube.com/watch?v=y9HjvHZfCUI) *Crash Course World History #39*, October 18, 2012. Length: 12:15.
 
 ### Topic 9: Politics and Protest
-
-**Week 12: M. 3/30: The New Deal**
-- TBD
 	
 **Week 12: Th. 4/2: The Civil Rights Era I**
 - *American Yawp*, [Chapter 27: The Sixties](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, III, IV)

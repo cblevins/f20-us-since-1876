@@ -14,7 +14,7 @@ One of the major themes of this course is American citizenship and the relations
 
 1. Voting Worksheet (5%) - *Due Wednesday, 1/22 by 11:59PM*
 2. Presidential Nomination (10%) - *Due Sunday, 2/2 by 11:59PM*
-3. Immigration Detainee Hearing (10%) - *Due Sunday, 3/22 by 11:59PM*
+3. Immigration Detainee Hearing (10%) - *Due Tuesday, 3/24 by 11:59PM*
 
 Please note that some these assignments *cannot* be completed at the last minute and are subject to outside schedules that are beyond your own control. They will require you to plan ahead several days or even weeks to figure out when you can complete them. [Full description of the assignment]({{site.baseurl}}/citizenship-portfolio).
 

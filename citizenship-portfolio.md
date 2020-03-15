@@ -58,4 +58,4 @@ Boston, MA 02203 [[Google Maps](https://goo.gl/maps/wP9VTPEUPJN2)]. If taking pu
 - Don't talk, don’t bring food or drink, turn off your cell phones, and dress appropriately. If you are wearing shorts, gym clothes, etc. you might not be allowed into the courtroom. 
 - It's okay if you can't follow the details for each hearing - there can be a lot of opaque technical and legal language. Follow along as best you can, but if you're having trouble catching the details of the case itself, try and make observations on all the different people involved, what the process is like, etc. along with your reactions to what you're observing. 
 
-*Due Sunday, 3/22 by 11:59PM*
+*Due Tuesday, 3/24 by 11:59PM*
