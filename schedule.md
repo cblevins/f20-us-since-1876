@@ -152,6 +152,7 @@ permalink: /schedule/
 **Week 11: M. 3/23: Colonialism & World War I**
 - *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part I, III) ~~and [Chapter 21: World War I](http://www.americanyawp.com/text/21-world-war-i/) (Part I, II, III)~~
 - Watch John Green, ["America in World War I"](https://www.youtube.com/watch?v=y59wErqg4Xg) *Crash Course US History #30*, September 19, 2013. Length: 13:39.
+- Watch lecture videos and follow instructions for World War I posters activity posted to the #week-11 Slack channel
 
 *Citizenship Portfolio Part III due Tuesday, 3/24 by 11:59PM*
 
