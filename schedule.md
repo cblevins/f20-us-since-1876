@@ -158,7 +158,8 @@ permalink: /schedule/
 
 **Week 11: Th. 3/26: World War II**
 - *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, IV, V)
-- Watch first 19:00 minutes of Frank Capra, ["War Comes to America"](https://northeastern.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=6505B0C4CE9C004747604E650CE651A0.app03.na03.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8793472070001401&institutionId=1401&customerId=1390) (1945), part of *Why We Fight* film series.
+- Watch first 7:25 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
+- Watch first 11:25 of Frank Capra, ["War Comes to America"](http://ezproxy.neu.edu/login?url=https://video.alexanderstreet.com/watch/war-comes-to-america) (1945), part of *Why We Fight* film series.
 
 **Week 12: M. 3/30: The Cold War**
 - Watch: John Green, ["USA vs USSR Fight! The Cold War"](https://www.youtube.com/watch?v=y9HjvHZfCUI) *Crash Course World History #39*, October 18, 2012. Length: 12:15.
