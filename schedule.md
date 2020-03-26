@@ -163,6 +163,7 @@ permalink: /schedule/
 
 **Week 12: M. 3/30: The Cold War**
 - Watch: John Green, ["USA vs USSR Fight! The Cold War"](https://www.youtube.com/watch?v=y9HjvHZfCUI) *Crash Course World History #39*, October 18, 2012. Length: 12:15.
+- Come up with *one idea* of a specific topic for your [final project]({{site.baseurl}}/final-project) and locate a potential primary source you might use. Post a 2-3 sentence description of your topic along with the source (image or link to source) to your discussion group Slack channel prior to the start of class. 
 
 ### Topic 9: Politics and Protest
 	
@@ -174,13 +175,13 @@ permalink: /schedule/
 **Week 13: M. 4/6: The Civil Rights Era II**
 - Watch Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
 
-*Final Projects due Wednesday, 4/8 by 11:59PM*
-
 **Week 13: Th. 4/9: The New Right**
 - Listen to "Episode 1: The Battle" PLUS one additional assigned podcast episode from: Leah Sottile, [*Bundyville*, Season One](https://longreads.com/bundyville/season-one/).
 
 ### Wrapping Up
 
 **Week 14: M. 4/13: Wrapping Up**
+
+*Final Projects due Wednesday, 4/15 by 11:59PM*
 
 *Take-Home Final Exam TBD*

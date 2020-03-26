@@ -20,7 +20,7 @@ Submit a single Word document formatted as `YourLastName_FinalProject.docx` (ie.
 - Student Name and Title of Course Packet
 - Introductory Essay (1,000-1,200 words)
 - Bibliography of Secondary Sources
-- 8-10 historical sources inserted as images
-- Each source should include identifying information for the source (ex. author, title, date created, etc.) and 2-3 sentence explanations of each source. 
+- 8-10 historical sources
+- Each source should include identifying information for the source (ex. author, title, date created, etc.) and 2-3 sentence explanations of each source. If possible, try to find an image of the source or related to the source (ex. movie poster, newspaper headline, photograph, etc.) and insert it into the document.
 
-*Due on Wednesday, 4/8 by 11:59PM*
+*Due on Wednesday, 4/15 by 11:59PM*
