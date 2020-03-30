@@ -168,9 +168,9 @@ permalink: /schedule/
 ### Topic 9: Politics and Protest
 	
 **Week 12: Th. 4/2: The Civil Rights Era I**
-- *American Yawp*, [Chapter 27: The Sixties](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, III, IV)
-- Martin Luther King Jr speaks at the Holt Street Church in Montgomery, Alabama (December 5 1955) [Transcript of King speaking from pp. 71-74](http://okra.stanford.edu/transcription/document_images/Vol03Scans/71_5-Dec-1955_MIA%20Mass%20Meeting.pdf)
-- Malcolm X speech, ["The Ballot or the Bullet”](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2015/11/Malcolm-X-The-Ballot-or-the-Bullet.pdf) (1964). You can also listen to the audio of [his speech on YouTube](https://youtu.be/7oVW3HfzXkg).
+- *American Yawp*, [Chapter 27: The Sixties](http://www.americanyawp.com/text/27-the-sixties/) (Part I, III)
+- Martin Luther King Jr speaks at the Holt Street Church in Montgomery, Alabama (December 5 1955). [Just read the transcript of King speaking from pp. 71-74](http://okra.stanford.edu/transcription/document_images/Vol03Scans/71_5-Dec-1955_MIA%20Mass%20Meeting.pdf).
+- Malcolm X speech, "The Ballot or the Bullet” (1964) [Just read p. 1-7](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2015/11/Malcolm-X-The-Ballot-or-the-Bullet.pdf). You can also listen to the audio of [his speech on YouTube](https://youtu.be/7oVW3HfzXkg).
 
 **Week 13: M. 4/6: The Civil Rights Era II**
 - Watch Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
