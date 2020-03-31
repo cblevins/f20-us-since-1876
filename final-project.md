@@ -24,3 +24,24 @@ Submit a single Word document formatted as `YourLastName_FinalProject.docx` (ie.
 - Each source should include identifying information for the source (ex. author, title, date created, etc.) and 2-3 sentence explanations of each source. If possible, try to find an image of the source or related to the source (ex. movie poster, newspaper headline, photograph, etc.) and insert it into the document.
 
 *Due on Wednesday, 4/15 by 11:59PM*
+
+### Other Information
+
+#### Developing Your Topic
+
+I have made [a guide]({{site.baseurl}}/downloads/final-project-topics.docx) to help you develop and refine your topic.
+
+#### Sources 
+
+You will need to research your project by finding both primary and secondary sources. See here for [primary vs. secondary sources](https://library.northeastern.edu/get-help/research-tutorials/primary-sources)). To research your topic online and find secondary sources, I suggest starting with some of the following:
+
+- [JSTOR](http://www.jstor.org)
+- [Google Scholar](http://scholar.google.com)
+- Set up a virtual consultation with [Karen Merguerian](https://subjectguides.lib.neu.edu/prf.php?account_id=101458), history librarian at Snell.
+
+The Northeastern Library has a nice subject guide for locating primary sources related to U.S. History. Go through the following and some of the other options in the menu dropdown under US History:
+
+- [General Primary Source Digital Collections](https://subjectguides.lib.neu.edu/c.php?g=336223&p=2263440)
+- [Historical US newspapers](https://subjectguides.lib.neu.edu/c.php?g=336223&p=2263433)
+- [Primary Source Websites and Databases (focus after 1900)](https://subjectguides.lib.neu.edu/c.php?g=336223&p=2263449)
+
