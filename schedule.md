@@ -173,7 +173,7 @@ permalink: /schedule/
 - Malcolm X speech, "The Ballot or the Bullet” (1964) [Just read p. 1-7](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2015/11/Malcolm-X-The-Ballot-or-the-Bullet.pdf). You can also listen to the audio of [his speech on YouTube](https://youtu.be/7oVW3HfzXkg).
 
 **Week 13: M. 4/6: The Civil Rights Era II**
-- Watch Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
+- Watch first 34:30 of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
 
 **Week 13: Th. 4/9: The New Right**
 - Listen to "Episode 1: The Battle" PLUS one additional assigned podcast episode from: Leah Sottile, [*Bundyville*, Season One](https://longreads.com/bundyville/season-one/).
