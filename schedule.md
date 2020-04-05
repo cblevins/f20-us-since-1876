@@ -176,7 +176,7 @@ permalink: /schedule/
 - Watch first 34:30 of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
 
 **Week 13: Th. 4/9: The New Right**
-- Listen to "Episode 1: The Battle" PLUS one additional assigned podcast episode from: Leah Sottile, [*Bundyville*, Season One](https://longreads.com/bundyville/season-one/).
+- Listen to "Episode 1: The Battle" from Leah Sottile, [*Bundyville* podcast, Season One](https://longreads.com/bundyville/season-one/).
 
 ### Wrapping Up
 
