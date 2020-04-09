@@ -32,6 +32,6 @@ Create a course packet of historical sources on a topic of your choice (ex. fash
 
 ### Final Exam (15%)
 
-Take-home exam consisting of short identifications and essay questions and will be emailed to the class. You may consult your notes from class along with any of the assigned readings themselves, but you are *not allowed* to consult outside sources such as Wikipedia or talk about the exam with fellow classmates. You are on your honor code. There is no specific time limit for taking the exam, other than completing and submitting it by its due date.
+Take-home exam consisting of short identifications and essay questions and will be emailed to the class. You may consult your notes from class along with any of the assigned readings themselves, but you are *not allowed* to consult outside sources such as Wikipedia or talk about the exam with fellow classmates. You are on your honor code. There is no specific time limit for taking the exam, other than completing and submitting it by its due date. The final exam will be emailed to you as a Word document on Thursday, 4/16. Submit the completed document (saved as `YourLastName_FinalExam.docx`) to [this Dropbox folder](https://www.dropbox.com/request/eoWG5AjLtD0Yee9rnkj5).
 
-*Due TBD*
+*Due Tuesday, 4/21 by 11:59PM*

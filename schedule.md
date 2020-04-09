@@ -184,4 +184,4 @@ permalink: /schedule/
 
 *Final Projects due Wednesday, 4/15 by 11:59PM*
 
-*Take-Home Final Exam TBD*
+*Take-Home Final Exam due Tuesday, 4/21 by 11:59PM*
