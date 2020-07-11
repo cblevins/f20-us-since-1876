@@ -3,22 +3,21 @@
 #
 
 # Name of your site (displayed in the header)
-name: Introduction to the History of the United States
-email: c.blevins@northeastern.edu
-university: "Northeastern University"
-course_number: "HIST 1130"
-semester: "Spring 2020"
+name: U.S. History Since 1876
+university: "University of Colorado Denver"
+course_number: "HIST 1362"
+semester: "Fall 2020"
 room: "placeholder"
-meetingtime: "Mon/Wed/Thurs 10:30-11:35"
+meetingtime: "Mon/Wed 9:30-10:45"
 instructor: Cameron Blevins
-email: c.blevins@northeastern.edu
-office: "237 Meserve Hall"
+email: cameron.blevins@ucdenver.edu
+office: "N/A"
 
 # Name of the author
 author: Cameron Blevins
 
 # Short bio or description (displayed in the header)
-description: Northeastern University, Spring 2020
+description: University of Colorado Denver, Fall 2020
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/36-star-flag.png
@@ -30,7 +29,7 @@ avatar: /images/36-star-flag.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: c.blevins@northeastern.edu
+  email: cameron.blevins@ucdenver.edu
   facebook:
   flickr:
   github: 
@@ -61,7 +60,7 @@ enforce_ssl: http://cblevins.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/sp20-intro-us" # the subpath of your site, e.g. /blog
+baseurl: "/f20-us-since-1876" # the subpath of your site, e.g. /blog
 
 #
 # !! You don't need to change any of the configuration flags below !!

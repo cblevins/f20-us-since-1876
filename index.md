@@ -5,22 +5,20 @@ title:
 
 <div style="text-align: center">
 <p>
-HIST 1130: Introduction to the History of the United States<br>
-Professor Cameron Blevins (he/him/his) | c.blevins@northeastern.edu<br>
-M/W/Th. 10:30-11:35am, Science Engineering Complex 142<br>
-Office Hours: Meserve Hall 237, M/W 12:00-1:00pm & by appointment<br>
-Teaching Assistant: Claire Tratnyek (she/her/her) | tratnyek.c@husky.neu.edu<br>
-TA Office Hours: Meserve Hall 218B, W/Th. 3:00-4:00pm
+HIST 1362: US History Since 1876<br>
+Professor Cameron Blevins (he/him/his) | cameron.blevins@ucdenver.edu<br>
+M/W 9:30-10:45am, Remote Course<br>
+Office Hours: _____ & by appointment (via Zoom)
 </p>
 </div>
 
 ### Course Description
 
-What does it mean to be an American? How has the idea of the United States and the meaning of American identity changed over the course of U.S. history? What are some of the major issues, themes, and turning points that have shaped this process? These questions are at the heart of HIST 1130, which provides an overview of U.S. history from the 1600s to the present. This class is not your typical introductory history “survey.” So what makes this class different?
+What does it mean to be an American? How has the idea of the United States and the meaning of American identity changed over the past century and a half? What are some of the major issues, themes, and turning points that have shaped this process? These questions are at the heart of HIST 1362, which provides an overview of U.S. history from the 1870s to the present. This class is not your typical introductory history course. So what makes this class different?
 
-1. This course will **NOT** attempt to “cover" everything that happened in U.S. history in a single semester. That would be impossible. Instead, we will be moving through different periods of American history by focusing on one topic or theme from that period at a time. This means that we will be skipping past major events and even entire decades of U.S. history. That’s okay! 
+1. This course will **NOT** attempt to “cover" everything that happened in U.S. history in a single semester. That would be impossible. Instead, we will be moving chronologically through different periods of American history by focusing on one topic or theme from that period at a time. This means that we will be skipping past major events and topics in U.S. history. That’s okay! 
 2. You will **NOT** be evaluated on how well you can memorize a series of events, people, and dates. Contrary to what you may have learned in high school, history is not “just one damn thing after another.” History isn’t about what happened; it’s about analyzing evidence and material from the past and then using that evidence to building larger interpretations, stories, and narratives. This course is focused on developing your ability to think historically rather than the accumulation of historical facts.
-3. You will **NOT** be learning *just* about the past. Throughout the semester, we will be connecting things that happened in the past to things that are happening today, including activities such as attending a federal immigration detainee court hearing or learning about the upcoming 2020 election. The ultimate goal of this class is to equip you with the knowledge and skills to understand how American history continues to shape the present world. 
+3. You will **NOT** be learning *just* about the past. Throughout the semester, we will be connecting things that happened in the past to things that are happening today, from the Covid-19 pandemic to the removal of Confederate monuments to the 2020 Presidential election. The ultimate goal of this class is to equip you with the knowledge and skills to understand how American history continues to shape the present world. 
 
 ## Student Learning Outcomes
 
