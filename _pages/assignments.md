@@ -6,32 +6,34 @@ permalink: /assignments/
 
 ### Participation and Attendance (20%)
 
-Students are to attend each class having completed the readings or other assignments and be prepared to discuss them. Your grade will be based on your contributions to in-class activities and discussions, how you interact with your peers during class, whether you have brought the readings or required material to class, and arriving on-time. Your participation grade will also include a number of short quizzes that will be administered throughout the semester. These are meant as a check-in to make sure you are engaging with the course's material, including lectures, readings, and in-class activities. Unless otherwise notified, you will not need to study for these outside of: a) doing the reading, and b) taking notes and paying attention during class. If you happen to be absent during one of these quizzes, the scores from your other quizzes will be weighted more heavily. 
+Students will be participating remotely, primarily via Zoom, during the scheduled class time of M/W 9:30-10:45am. Prior to class, you are expected to have completed the readings or other short assignments and be prepared to discuss them. Your grade will be based on your attendance, contributions to in-class activities and discussions, how you interact with your peers during class, whether you have done the readings or required assignments, and arriving on-time. See the Policies page for more information about attendances and absences.
 
-### Citizenship Portfolio (25%)
+### Colorado Voting Worksheet (10%)
 
-One of the major themes of this course is American citizenship and the relationship between the past and the present. As part of this theme, you will be completing a Citizenship Portfolio in which you link some of the big topics in U.S. history to modern-day issues and events related to citizenship today.
+The 2020 election will be taking place in the middle of our semester, and one of the big themes of this class is to understand the longer history of politics and elections in the United States. As part of that, you will be completing a worksheet about voting in Colorado - both today and in the past. The goal of this assignment is to familiarize yourself with some of the mechanics of American democracy within the specific context of Colorado and an understanding of how those mechanics have changed over time. [Download the worksheet here]({{site.baseurl}}/downloads/colorado-voting.docx) and submit it to [this Dropbox folder](comingsoon). 
 
-1. Voting Worksheet (5%) - *Due Wednesday, 1/22 by 11:59PM*
-2. Presidential Nomination (10%) - *Due Sunday, 2/2 by 11:59PM*
-3. Immigration Detainee Hearing (10%) - *Due Tuesday, 3/24 by 11:59PM*
+*Due Sunday, September 6th by 11:59PM*
 
-Please note that some these assignments *cannot* be completed at the last minute and are subject to outside schedules that are beyond your own control. They will require you to plan ahead several days or even weeks to figure out when you can complete them. [Full description of the assignment]({{site.baseurl}}/citizenship-portfolio).
+### Weekend Briefing: 1918 (15%)
 
-### Mid-Semester Project: Museum of Fine Arts (20%)
+You will be writing a modified version of the *New York Times* "Weekend Briefing" ([see examples](https://www.nytimes.com/series/us-weekend-briefing)), using one Denver weekly newspaper during one week in 1918. Using the *Colorado Historic Newspapers* database, you will read an entire issue of a weekly newspaper and then select six items to include in your briefing. [Full description of the assignment]({{site.baseurl}}/weekend-briefing-1918).
 
-Visit the Museum of Fine Arts and explore its Art of the Americas wing, then select one item from their collection of art that you can connect to the core question of this course: "What does it mean to be an American?" You will write an essay analyzing the piece of art within the larger context of American identity and American history. [Full description of the assignment]({{site.baseurl}}/mfa-project).
+*Due Sunday, September 27th by 11:59PM*
 
-*Due on Wednesday, 2/26 by 11:59PM*
+### Reacting to the Past: Chicago, 1968 (15%)
 
-### Final Project: Course Packet (20%)
+You will be conducting a historical simulation over the course of several class periods in October. In it, you will be taking on the persona of either a politician, protestor, or journalist during the Democratic National Convention in Chicago during 1968. [Full description of the assignment]({{site.baseurl}}/chicago-1968).
 
-Create a course packet of historical sources on a topic of your choice (ex. fashion, impeachment, birth control, U.S. holidays, Chinese-American immigration, etc.). You will gather **8-10 sources about your topic from the 1900s and/or 2000s** and write a background essay that links your project to larger themes in U.S. history. [Full description of the assignment]({{site.baseurl}}/final-project).
+*Various deadlines in late October*
 
-*Due on Wednesday, 4/15 by 11:59PM*
+### Election Unessay (20%)
 
-### Final Exam (15%)
+Each student will be taking a closer look at a single US election between 1880 and 2000. You will be responsible for familiarizing yourself with the basics of the election (candidates, major issues, wider context, result, etc.) and then making an "unessay" about a specific topic connected to that election. An "unessay" consists of any format besides a traditional final paper: restaurant menu, board game, meme collage, podcast episode, series of TikTok videos, piece of historical fiction - whatever you want! [Full description of the assignment]({{site.baseurl}}/election-unessay).
 
-Take-home exam consisting of short identifications and essay questions and will be emailed to the class. You may consult your notes from class along with any of the assigned readings themselves, but you are *not allowed* to consult outside sources such as Wikipedia or talk about the exam with fellow classmates. You are on your honor code. There is no specific time limit for taking the exam, other than completing and submitting it by its due date. The final exam will be emailed to you as a Word document on Thursday, 4/16. Submit the completed document (saved as `YourLastName_FinalExam.docx`) to [this Dropbox folder](https://www.dropbox.com/request/eoWG5AjLtD0Yee9rnkj5).
+*Due Sunday, November 27th by 11:59PM*
 
-*Due Tuesday, 4/21 by 11:59PM*
+### Final Exam (20%)
+
+A final will be distributed over emailed and will help me evaluate what you have learned over the course of the semester. It will not involve detailed fact-recall; instead it will require you to draw on some of the larger themes, concepts, topics, and connections from the course while providing  evidence. You may consult your notes from class along with any of the assigned readings themselves, but you are *not allowed* to consult outside sources such as Wikipedia or talk about the exam with fellow classmates. You are on your honor code. There is no specific time limit for taking the exam, other than completing and submitting it by its due date. The final exam will be emailed to you as a Word document that you will submit (saved as `YourLastName_final-exam.docx`) to [this Dropbox folder](comingsoon).
+
+*Due during finals week - exact date and time TBD*
