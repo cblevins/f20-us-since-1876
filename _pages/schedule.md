@@ -119,8 +119,8 @@ permalink: /schedule/
 **M., 11/16: The 2000s** 
 - Listen to "Episode 1: The Battle" from Leah Sottile, [*Bundyville* podcast, Season One](https://longreads.com/bundyville/season-one/).
 
-**W., 11/18: Election Reports** 
-- Prepare a lightning-round style (three minutes or less) presentation on your assigned election that you will be examining for your unessay. The goal of this presentation is to get you familiar
+**W., 11/18: Election Presentations** 
+- Prepare a lightning-round style (three minutes or less) presentation on your assigned election that you will be examining for your unessay, with the aim of convincing the rest of your class that *this is the most important election in American history since 1876* (whether you believe this to be true or not). The goal of this presentation is to research the basics and context of the election to help you narrow in on your specific unessay topic. 
 
 ~~**M., 11/23: Thanksgiving Break**~~
  
@@ -129,7 +129,7 @@ permalink: /schedule/
 *Election Unessay due Sunday 11/29 by 11:59PM*
 
 **M., 11/30: History of 2020** 
-- Post 
+- TBD 
 
 **W., 12/2: Semester Review**
 - TBD
