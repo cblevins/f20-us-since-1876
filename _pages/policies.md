@@ -44,3 +44,6 @@ working, and living environment. University policy prohibits sexual misconduct, 
 
 **Academic Integrity**<br>
 Students are expected to know, understand, and comply with the ethical standards of the university, including rules against plagiarism, cheating, fabrication and falsification, multiple submissions, misuse of academic materials, and complicity in academic dishonesty. 
+
+**Additional Resources**<br>
+Please refer to this list of additional resources available to CU Denver students: <https://clas.ucdenver.edu/faculty-staff/sites/default/files/attached-files/student_services_and_calendar.pdf>.
