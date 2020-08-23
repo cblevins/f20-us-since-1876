@@ -21,7 +21,8 @@ permalink: /schedule/
 - [Letter from Jourdan Anderson to P. H. Anderson, 1865](https://www.dropbox.com/s/hpgbpioy7a3zt1f/JourdanAnderson_1865.docx?dl=0)
 
 **W., 8/26: Reconstruction II**
-- Watch first 32 minutes of: [Part 1, Hour 2](https://www.pbs.org/weta/reconstruction/episodes/hour-two/) of *Reconstruction: America After the Civil War*, *PBS* (2019).
+- Watch first 32:10 minutes of: [Part 1, Hour 2](https://www.pbs.org/weta/reconstruction/episodes/hour-two/) of the PBS documentary, *Reconstruction: America After the Civil War*, (2019). *Please note: there are some graphic images and descriptions of violence and sexual assault from 19:00-24:00 if you need to skip this section of the episode.*
+  - Take notes on the episode using [this worksheet]({{site.baseurl}}/downloads/documentary-worksheet.docx) and make sure you have these notes with you for class.
 
 **M., 8/31: Reconstructing the West** 
 - Watch first 38:15 minutes of: Neil Diamond, Catherine Bainbridge and Jeremiah Hayes, *Reel Injun: On the Trail of the Hollywood Indian* (2009). [Available through Kanopy using your UCDenver log-in credentials](https://ucdenver.kanopy.com/video/reel-injun-native-american-portrayal-hollywo).
