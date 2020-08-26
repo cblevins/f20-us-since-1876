@@ -25,7 +25,8 @@ permalink: /schedule/
   - Take notes on the episode using [this worksheet]({{site.baseurl}}/downloads/documentary-worksheet.docx) and make sure you have these notes with you for class.
 
 **M., 8/31: Reconstructing the West** 
-- Watch first 38:15 minutes of: Neil Diamond, Catherine Bainbridge and Jeremiah Hayes, *Reel Injun: On the Trail of the Hollywood Indian* (2009). [Available through Kanopy using your UCDenver log-in credentials](https://ucdenver.kanopy.com/video/reel-injun-native-american-portrayal-hollywo).
+- Watch first 38:15 minutes of: Neil Diamond, Catherine Bainbridge and Jeremiah Hayes, *Reel Injun: On the Trail of the Hollywood Indian* (2009). [Available through Kanopy using your UCDenver log-in credentials](https://aurarialibrary.idm.oclc.org/login?url=https://ucdenver.kanopy.com/video/reel-injun-native-american-portrayal-hollywo). 
+  - Update: If you are having trouble accessing the film, try clicking `Connect to resource` from this page: <http://skyline.ucdenver.edu/record=b3329765~S0>.
 
 **W., 9/2: Capital & Labor** 
 - *American Yawp*, [Chapter 16: Capital and Labor](http://www.americanyawp.com/text/16-capital-and-labor) (Part II, III)
