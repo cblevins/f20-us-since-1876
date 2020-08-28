@@ -10,7 +10,7 @@ Students will be participating remotely, primarily via Zoom, during the schedule
 
 ### Colorado Voting Worksheet (10%)
 
-The 2020 election will be taking place in the middle of our semester, and one of the big themes of this class is to understand the longer history of politics and elections in the United States. As part of that, you will be completing a worksheet about voting in Colorado - both today and in the past. The goal of this assignment is to familiarize yourself with some of the mechanics of American democracy within the specific context of Colorado and an understanding of how those mechanics have changed over time. [Download the worksheet here]({{site.baseurl}}/downloads/colorado-voting.docx) and submit it to [this Dropbox folder](comingsoon). 
+The 2020 election will be taking place in the middle of our semester, and one of the big themes of this class is to understand the longer history of politics and elections in the United States. As part of that, you will be completing a worksheet about voting in Colorado - both today and in the past. The goal of this assignment is to familiarize yourself with some of the mechanics of American democracy within the specific context of Colorado and an understanding of how those mechanics have changed over time. [Download the worksheet here]({{site.baseurl}}/downloads/colorado-voting.docx) and submit it to [this Dropbox folder](https://www.dropbox.com/request/TX4cMxzhJDMhuvMoETi7). 
 
 *Due Sunday, September 6th by 11:59PM*
 
