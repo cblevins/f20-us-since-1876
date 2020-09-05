@@ -30,7 +30,7 @@ You will be conducting a historical simulation over the course of several class 
 
 Each student will be taking a closer look at a single US election between 1880 and 2000. You will be responsible for familiarizing yourself with the basics of the election (candidates, major issues, wider context, result, etc.) and then making an "unessay" about a specific topic connected to that election. An "unessay" consists of any format besides a traditional final paper: restaurant menu, board game, meme collage, podcast episode, series of TikTok videos, piece of historical fiction - whatever you want! [Full description of the assignment]({{site.baseurl}}/election-unessay).
 
-*Due Sunday, November 27th by 11:59PM*
+*Due Sunday, November 29th by 11:59PM*
 
 ### Final Exam (20%)
 

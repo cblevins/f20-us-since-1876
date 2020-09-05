@@ -40,7 +40,7 @@ permalink: /schedule/
 
 **W., 9/9: The Progressive Era**
 - *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/) (Part I, II)
-- Each group is assigned a reform movement and a corresponding packet of primary sources. Read the sources and take notes on: What problem are they trying to solve? Who are their reforms aimed at helping? What are their proposed solutions? Whose voices seem left out of this movement? [Link to full packet - note that you only take notes on your group.](https://www.dropbox.com/s/7v0ux1w5p6r1ib5/progressive-era-reform-movements.pdf?dl=0)
+- Each group is assigned a reform movement and a corresponding packet of primary sources (see email/Canvas announcement). Read the sources and take notes on: What problem are they trying to solve? Who are their reforms aimed at helping? What are their proposed solutions? Whose voices seem left out of this movement? [Link to full packet - note that you only take notes on your group.](https://www.dropbox.com/s/7v0ux1w5p6r1ib5/progressive-era-reform-movements.pdf?dl=0)
 
 **M., 9/14: Environmentalism**
 - Read your primary source packet in preparation for a mock Congressional hearing on proposal to dam Hetch Hetchy Valley
