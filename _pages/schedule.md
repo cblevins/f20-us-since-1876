@@ -39,7 +39,7 @@ permalink: /schedule/
 ~~**M., 9/7: No Class, Official Holiday**~~
 
 ~~**W., 9/9: The Progressive Era**~~ *Class moved to Monday, 9/14*
-- Class is postponed today. Professor Blevins is participating in the [Scholar Strike for Racial Justice](https://www.scholarstrike.com/), a mass action of higher education professionals protesting racist policing, state violence against communities of color, mass incarceration and other manifestations of racism. Instead of class, I will be holding an open forum for students to discuss these issues on our regular Zoom call. Please see class email for more information.
+- Class is postponed today. Professor Blevins is participating in the [Scholar Strike for Racial Justice](https://www.scholarstrike.com/), a mass action of higher education professionals protesting racist policing, state violence against communities of color, mass incarceration and other manifestations of racism. Instead of class, I will be holding an open forum for students to discuss these issues on our regular Zoom call. Please see [this video](https://shorts.flipgrid.com/watch/12525965515423821) and my class-wide email for more information.
 
 **M., 9/14:** ~~**Environmentalism**~~ **The Progressive Era**
 - ~~Read your primary source packet in preparation for a mock Congressional hearing on proposal to dam Hetch Hetchy Valley~~
