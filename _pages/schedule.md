@@ -38,12 +38,13 @@ permalink: /schedule/
 
 ~~**M., 9/7: No Class, Official Holiday**~~
 
-**W., 9/9: The Progressive Era**
+~~**W., 9/9: The Progressive Era**~~ *Class moved to Monday, 9/14*
+- Class is postponed today. Professor Blevins is participating in the [Scholar Strike for Racial Justice](https://www.scholarstrike.com/), a mass action of higher education professionals protesting racist policing, state violence against communities of color, mass incarceration and other manifestations of racism. Instead of class, I will be holding an open forum for students to discuss these issues on our regular Zoom call. Please see class email for more information.
+
+**M., 9/14:** ~~**Environmentalism**~~ **The Progressive Era**
+- ~~Read your primary source packet in preparation for a mock Congressional hearing on proposal to dam Hetch Hetchy Valley~~
 - *American Yawp*, [Chapter 20: The Progressive Era](http://www.americanyawp.com/text/20-the-progressive-era/) (Part I, II)
 - Each group is assigned a reform movement and a corresponding packet of primary sources (see email/Canvas announcement). Read the sources and take notes on: What problem are they trying to solve? Who are their reforms aimed at helping? What are their proposed solutions? Whose voices seem left out of this movement? [Link to full packet - note that you only take notes on your group.](https://www.dropbox.com/s/7v0ux1w5p6r1ib5/progressive-era-reform-movements.pdf?dl=0)
-
-**M., 9/14: Environmentalism**
-- Read your primary source packet in preparation for a mock Congressional hearing on proposal to dam Hetch Hetchy Valley
 
 **W., 9/16: Suffrage**
 - Listen to segments "Suffering for Suffrage" and "Meme Busters" (26:40-42:00) from episode ["You've Come a Long Way? A History of Women in Politics"](https://www.backstoryradio.org/shows/youve-come-a-long-way/) *Backstory Radio* (29 July 2016). [[Full transcript of episode](https://www.backstoryradio.org/wp-content/uploads/sites/13/2018/08/You_ve_Come_A_Long_Way___A_History_Of_Women_In_Politics.pdf)]
