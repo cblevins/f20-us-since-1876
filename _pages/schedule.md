@@ -47,7 +47,9 @@ permalink: /schedule/
 - Each group is assigned a reform movement and a corresponding packet of primary sources (see email/Canvas announcement). Read the sources and take notes on: What problem are they trying to solve? Who are their reforms aimed at helping? What are their proposed solutions? Whose voices seem left out of this movement? [Link to full packet - note that you only take notes on your group.](https://www.dropbox.com/s/7v0ux1w5p6r1ib5/progressive-era-reform-movements.pdf?dl=0)
 
 **W., 9/16: Suffrage**
-- Listen to segments "Suffering for Suffrage" and "Meme Busters" (26:40-42:00) from episode ["You've Come a Long Way? A History of Women in Politics"](https://www.backstoryradio.org/shows/youve-come-a-long-way/) *Backstory Radio* (29 July 2016). [[Full transcript of episode](https://www.backstoryradio.org/wp-content/uploads/sites/13/2018/08/You_ve_Come_A_Long_Way___A_History_Of_Women_In_Politics.pdf)]
+- Listen to "Episode 04: Tactics" from Maggie Hart, *Waiting for Liberty* podcast (September 7, 2020).
+- ~~Listen to segments "Suffering for Suffrage" and "Meme Busters" (26:40-42:00) from episode ["You've Come a Long Way? A History of Women in Politics"](https://www.backstoryradio.org/shows/youve-come-a-long-way/) *Backstory Radio* (29 July 2016). [[Full transcript of episode](https://www.backstoryradio.org/wp-content/uploads/sites/13/2018/08/You_ve_Come_A_Long_Way___A_History_Of_Women_In_Politics.pdf)]~~
+
 
 ### Colonialism and Empire
 
