@@ -8,7 +8,7 @@ permalink: /weekend-briefing-1918/
 
 The year 1918 was a momentous one in US history. What did this pivotal year look like for the people who were experiencing it? To find out, you will be writing a modified version of the *New York Times*'s "Weekend Briefing" ([see examples](https://www.nytimes.com/series/us-weekend-briefing)) using one Denver weekly newspaper during one week in 1918 from the *Colorado Historic Newspapers* database. What was happening at that time in 1918? What were the different issues, topics, events, and stories that this paper was covering?
 
-Use [this template](({{site.baseurl}}/downloads/weekend-briefing-1918-template.docx)) to complete your Weekend Briefing and then submit it as a Word document in the following format: `Lastname_weekend-briefing-1918.docx` (ex. `Blevins_weekend-briefing-1918.docx`) to [this Dropbox folder](coming soon).
+Use [this template]({{site.baseurl}}/downloads/weekend-briefing-1918-template.docx) to complete your Weekend Briefing and then submit it as a Word document in the following format: `Lastname_weekend-briefing-1918.docx` (ex. `Blevins_weekend-briefing-1918.docx`) to [this Dropbox folder](coming soon).
 
 *Deadline: Sunday, September 27th by 11:59PM.*
 
@@ -46,7 +46,7 @@ At the end of the briefing, you will then write a 500 word **reflection** in whi
 - **Clarity and conciseness**. What is the fewest number of words you need to convey necessary information to a reader who is completely unfamiliar with the topic?
 - **Depth of knowledge and research**. Did you complete the requisite research to familiarize yourself with the item and then convey that knowledge to the reader?
 
-I will be using [this rubric](({{site.baseurl}}/downloads/weekend-briefing-1918-rubric.docx)) to evaluate your work.
+I will be using [this rubric]({{site.baseurl}}/downloads/weekend-briefing-1918-rubric.docx) to evaluate your work.
  
 ### More Details on Mechanics:
 - The items do not need to be exactly within a week of the newspaper issue's print date, but should be close to that date.
