@@ -8,7 +8,7 @@ permalink: /weekend-briefing-1918/
 
 The year 1918 was a momentous one in US history. What did this pivotal year look like for the people who were experiencing it? To find out, you will be writing a modified version of the *New York Times*'s "Weekend Briefing" ([see examples](https://www.nytimes.com/series/us-weekend-briefing)) using one Denver weekly newspaper during one week in 1918 from the *Colorado Historic Newspapers* database. What was happening at that time in 1918? What were the different issues, topics, events, and stories that this paper was covering?
 
-Use [this template]({{site.baseurl}}/downloads/weekend-briefing-1918-template.docx) to complete your Weekend Briefing and then submit it as a Word document in the following format: `Lastname_weekend-briefing-1918.docx` (ex. `Blevins_weekend-briefing-1918.docx`) to [this Dropbox folder](coming soon).
+Use [this template]({{site.baseurl}}/downloads/weekend-briefing-1918-template.docx) to complete your Weekend Briefing and then submit it as a Word document in the following format: `Lastname_weekend-briefing-1918.docx` (ex. `Blevins_weekend-briefing-1918.docx`) to [this Dropbox folder](https://www.dropbox.com/request/yod2jyqtu48PR0YjAvtG).
 
 *Deadline: Sunday, September 27th by 11:59PM.*
 
