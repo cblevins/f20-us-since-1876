@@ -57,7 +57,7 @@ permalink: /schedule/
 - Prepare for a mock debate between CU Denver students in the year 1900 on the Philippine-American War. You will be assigned one side of that debate at the start of class. In order to prepare, complete the following readings:
 - Background reading on the war (**choose one**):
   - Read *American Yawp*, [Chapter 19: American Empire](http://www.americanyawp.com/text/19-american-empire) (Part III: 1898).
-  - Watch first 10 minutes of John Greene, ["American Imperialism: Crash Course US History #28"]() (April 5, 2017).
+  - Watch first 10 minutes of John Greene, ["American Imperialism: Crash Course US History #28"](https://www.youtube.com/watch?v=QfsfoFqsFk4) (April 5, 2017).
 - Read the four documents in [this source packet](https://www.dropbox.com/s/wfiswp0dou5f4c2/colonialism-debate-source-packet.pdf?dl=0) and take notes on arguments that were being made for and against the Philippine-American War.
 
 **W., 9/23: World War I**
