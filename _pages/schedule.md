@@ -88,7 +88,7 @@ permalink: /schedule/
 ### Politics and Protest: The 1960s
 
 **W., 10/14: The Civil Rights Movement I**
-- Watch first 34:30 of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
+- Watch first 34:30 (segments 1-16) of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available using your CU Denver log-in credentials](http://skyline.ucdenver.edu/record=b3112035).
 - Read pp. 4-28 of the Gamebook for *Reacting to the Past: Chicago, 1968*
 
 **M., 10/19: Set Up Session: / The Civil Rights Movement II**
