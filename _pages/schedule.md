@@ -71,13 +71,12 @@ permalink: /schedule/
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016. [PDF version](https://www.dropbox.com/s/hf70871ha47drxd/Schulz_CitizenKhan.pdf?dl=0)
 
 **W., 9/30: Jim Crow**
-- Isabel Wilkerson, [*The Warmth of Other Suns* (selections)](https://www.dropbox.com/s/du5hfxjvxqhdc3g/Wilkerson_TheWarmthOfOtherSuns_selections_hist1362.pdf?dl=0)
+- Isabel Wilkerson, *The Warmth of Other Suns* [(selections)](https://www.dropbox.com/s/du5hfxjvxqhdc3g/Wilkerson_TheWarmthOfOtherSuns_selections_hist1362.pdf?dl=0)
 
 ### The American Century
 
 **M., 10/5: The New Deal**
 - John Biewen and Chenjerai Kumanyika, ["A New Deal"](https://www.sceneonradio.org/s4-e6-a-new-deal/), *Scene on Radio*, Season 54, Episode 6 (March 17, 2020).
-- Primary Source Packet (TBD) 
 
 **W., 10/7: World War II**
 - *American Yawp*, [Chapter 24: World War II](http://www.americanyawp.com/text/24-world-war-ii/) (Part I, IV, V)
@@ -90,10 +89,10 @@ permalink: /schedule/
 
 **W., 10/14: The Civil Rights Movement I**
 - Watch first 34:30 of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available through Kanopy using your Northeastern log-in credentials](https://northeastern.kanopy.com/video/negroes-guns).
-- Read pp. 4-28 of the Gamebook  *Reacting to the Past: Chicago, 1968*
+- Read pp. 4-28 of the Gamebook for *Reacting to the Past: Chicago, 1968*
 
 **M., 10/19: Set Up Session: / The Civil Rights Movement II**
-- Read pp. 28-44 of the Gamebook  *Reacting to the Past: Chicago, 1968*
+- Read pp. 28-44 of the Gamebook for *Reacting to the Past: Chicago, 1968*
 - Read your Role Sheet carefully - look in particular at the topic and due date of your assigned speech, victory conditions, and texts you need to read
 - The selected Core Texts indicated in your Role Sheet under "Relationships...To the Texts"
 
