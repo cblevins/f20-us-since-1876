@@ -87,11 +87,11 @@ permalink: /schedule/
 
 ### Politics and Protest: The 1960s
 
-**W., 10/14: The Civil Rights Movement I**
+**W., 10/14: The Civil Rights Era I**
 - Watch first 34:30 (segments 1-16) of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available using your CU Denver log-in credentials](http://skyline.ucdenver.edu/record=b3112035).
 - Read pp. 4-28 of the Gamebook for *Reacting to the Past: Chicago, 1968*
 
-**M., 10/19: Set Up Session: / The Civil Rights Movement II**
+**M., 10/19: Set Up Session: / The Civil Rights Era II**
 - Read pp. 28-44 of the Gamebook for *Reacting to the Past: Chicago, 1968*
 - Read your Role Sheet carefully - look in particular at the topic and due date of your assigned speech, victory conditions, and texts you need to read
 - The selected Core Texts indicated in your Role Sheet under "Relationships...To the Texts"
@@ -104,7 +104,7 @@ permalink: /schedule/
 
 *Final Assignments for Chicago, 1968 due Sunday, 11/1 by 11:59PM*
 
-**M., 11/2: Debrief Session | The Civil Rights Movement III** 
+**M., 11/2: Debrief Session | The Civil Rights Era III** 
 - Watch selections (TBD) of [Episode 4: Fighting for Political Power](https://ucdenver.kanopy.com/video/chicano-episode-4-fighting-political-power) from documentary *Chicano! The History of the Mexican American Civil Rights Movement* .
 
 ### Backlash
