@@ -93,16 +93,16 @@ permalink: /schedule/
 
 **M., 10/19: Set Up Session: / The Civil Rights Era II**
 - Read pp. 28-44 of the Gamebook for *Reacting to the Past: Chicago, 1968*
-- Read your Role Sheet carefully - look in particular at the topic and due date of your assigned speech, victory conditions, and texts you need to read
-- The selected Core Texts indicated in your Role Sheet under "Relationships...To the Texts"
+- Read your Role Sheet carefully - look in particular at your victory conditions and the texts you need to read
+- Delegates and protestors: make sure you know the topic of your speech and what session you will be giving it. Note: if you are giving a speech on Session 1 (W., 10/21), begin preparing over the weekend.
+- Journalists: make sure you know the topic of your stories and note that most of them are due the *day before* a main session. Plan ahead, especially if you have a story due on Tues., 10/20.
 
 **W., 10/21: Chicago, 1968 Session 1: Domestic Policy**
-
+- Read the selected Core Texts indicated in your Role Sheet under "Relationships...To the Texts"
+ 
 **M., 10/26: Chicago, 1968 Session 2: Vietnam Policy**
 
 **W., 10/28: Chicago, 1968 Session 3: Presidential Nomination**
-
-*Final Assignments for Chicago, 1968 due Sunday, 11/1 by 11:59PM*
 
 **M., 11/2: Debrief Session | The Civil Rights Era III** 
 - Watch selections (TBD) of [Episode 4: Fighting for Political Power](https://ucdenver.kanopy.com/video/chicano-episode-4-fighting-political-power) from documentary *Chicano! The History of the Mexican American Civil Rights Movement* .
