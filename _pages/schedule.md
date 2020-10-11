@@ -116,7 +116,7 @@ permalink: /schedule/
 - Watch Season 1, Episode 1 of TV series *Mrs. America* (2020). Available on Hulu, Google Play, Amazon.
 
 **W., 11/11: The 1990s**
-- Watch first 50 minutes of Ava Duvernay, [*13th* documentary](https://www.youtube.com/watch?v=krfcq5pF8u8).
+- Watch first 50 minutes of Ava Duvernay, [*13th* documentary](https://www.youtube.com/watch?v=krfcq5pF8u8). Available for free on Netflix or [Youtube](https://www.youtube.com/watch?v=krfcq5pF8u8).
 
 ### The 21st Century
 
