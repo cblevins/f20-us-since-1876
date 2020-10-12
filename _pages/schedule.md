@@ -89,10 +89,10 @@ permalink: /schedule/
 
 **W., 10/14: The Civil Rights Era I**
 - Watch first 34:30 (segments 1-16) of Sandra Dickson and Churchill Roberts, *Negroes with Guns*, [available using your CU Denver log-in credentials](http://skyline.ucdenver.edu/record=b3112035).
-- Read pp. 4-28 of the Gamebook for *Reacting to the Past: Chicago, 1968*
+- Read pp. 2-15 of the Gamebook for *Reacting to the Past: Chicago, 1968*. See Canvas Announcement on 10/12 and Slack channel #chicago-1968 for a link to the Gamebook. 
 
 **M., 10/19: Set Up Session: / The Civil Rights Era II**
-- Read pp. 28-44 of the Gamebook for *Reacting to the Past: Chicago, 1968*
+- Read pp. 15-41 of the Gamebook for *Reacting to the Past: Chicago, 1968*
 - Read your Role Sheet carefully - look in particular at your victory conditions and the texts you need to read
 - Delegates and protestors: make sure you know the topic of your speech and what session you will be giving it. Note: if you are giving a speech on Session 1 (W., 10/21), begin preparing over the weekend.
 - Journalists: make sure you know the topic of your stories and note that most of them are due the *day before* a main session. Plan ahead, especially if you have a story due on Tues., 10/20.
