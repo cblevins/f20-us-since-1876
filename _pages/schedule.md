@@ -105,7 +105,7 @@ permalink: /schedule/
 **W., 10/28: Chicago, 1968 Session 3: Presidential Nomination**
 
 **M., 11/2: Debrief Session | The Civil Rights Era III** 
-- Watch selections (TBD) of [Episode 4: Fighting for Political Power](https://ucdenver.kanopy.com/video/chicano-episode-4-fighting-political-power) from documentary *Chicano! The History of the Mexican American Civil Rights Movement* .
+- Optional for extra credit: Watch min. 20:44-54:00 of [Episode 4: Fighting for Political Power](https://ucdenver.kanopy.com/video/chicano-episode-4-fighting-political-power) from documentary *Chicano! The History of the Mexican American Civil Rights Movement* and post a one-paragraph answer to the following question on the #general channel on Slack: Do you think it is more effective to try and change political systems by working INSIDE of them or OUTSIDE of them? You must include specific examples from the documentary to support your answer.
 
 ### Backlash
 
