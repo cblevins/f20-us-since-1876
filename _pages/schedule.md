@@ -132,10 +132,9 @@ permalink: /schedule/
 
 *Election Unessay due Sunday 11/29 by 11:59PM*
 
-**M., 11/30: History of 2020** 
-- TBD 
+**M., 11/30: TBD** 
+- Students will vote on a topic that they would like to learn more about.
 
 **W., 12/2: Semester Review**
-- TBD
 
 
