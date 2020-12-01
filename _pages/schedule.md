@@ -132,9 +132,10 @@ permalink: /schedule/
 
 *Election Unessay due Sunday 11/29 by 11:59PM*
 
-**M., 11/30: TBD** 
-- Students will vote on a topic that they would like to learn more about.
+**M., 11/30: True Crime and US History** 
+- Open topic selected by students (no reading)
 
 **W., 12/2: Semester Review**
+- Come to class with your notes from the semester in preparation for a review session for the final exam.
 
-
+*Final Exam due Wednesday, 12/9 by 11:59PM*
